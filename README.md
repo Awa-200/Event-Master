@@ -1,24 +1,24 @@
 <h1>Overview</h1>
-The Event Management System is a comprehensive solution designed to manage and organize events. This system allows users to create, read, update, and delete events, while providing detailed information about each event, including descriptions, dates, locations, and attendees.
+The Event Management System is a comprehensive solution designed to manage and organize events. This system allows users to create, read, update, and delete events, while providing detailed information about each event, including descriptions, dates, locations, and attendees.<br/>
 
-Features:
+<h2>Features:</h2>
 Create Events: Add new events with specific details.
 View Events: View detailed information about all events.
 Update Events: Modify existing event details.
 Delete Events: Remove events from the system.
-Event Details: Each event includes a description, date, location, and list of attendees.
+Event Details: Each event includes a description, date, location, and list of attendees.<br/>
 
-Technologies Used:
+<h2>Technologies Used:</h2>
 Frontend: React, JavaScript, Bootstrap, css, tailwind
 Backend: Spring Boot
 Database: MySQL(Main functions) , Firebase
-Version Control: Git
+Version Control: Git<br/>
 
-Install all dependencies:
+<h3>Install all dependencies:</h3>
 npm install --force
 
-Run Application:
+<h3>Run Application:</h3>
 npm run dev
 
-Demo Video:
+<h3>Demo Video:</h3>
 https://drive.google.com/drive/folders/1uxWRRQXmHHWsduMhAvBVDj0kDKx43soo?usp=drive_link
