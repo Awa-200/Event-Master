@@ -1,0 +1,51 @@
+.about-section {
+    padding: 50px 20px;
+    background-color: #ffffff; /* Match the background color */
+    color: rgb(0, 0, 0); /* White text color for contrast */
+  }
+  
+  .about-banner {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  
+  .about-banner h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  .about-banner p {
+    font-size: 1.2em;
+    line-height: 1.6;
+  }
+  .about-section {
+    padding: 50px 20px;
+    background-color: #ffffff; /* Match the background color */
+    color: rgb(0, 0, 0); /* White text color for contrast */
+    text-align: center;
+  }
+  
+  .about-banner-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .about-content {
+    margin-top: 20px;
+  }
+  
+  .product-images {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .product-image {
+    width: 300px; /* Adjust the width as needed */
+    height: auto;
+    border-radius: 25px; /* Curved edges */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: add a shadow for better display */
+  }
